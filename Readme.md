@@ -12,7 +12,7 @@ The Activity Recognition API can detect the following activities:
 
 **IN_VEHICLE:** This activity detected when the mobile device is on the bus or car or some other kind of vehicle or the user holding the mobile device is present in the vehicle.
 
-**+ON_BICYCLE:** When the device is on the bicycle or the user carrying the mobile is on a bicycle then this activity will be detected.
+**ON_BICYCLE:** When the device is on the bicycle or the user carrying the mobile is on a bicycle then this activity will be detected.
 
 **TILTING:** When the mobile device is being lifted and is having some angle with the flat surface then the Activity Recognition Client will detect this activity.
 
