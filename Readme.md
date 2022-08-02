@@ -18,7 +18,7 @@ The Activity Recognition API can detect the following activities:
 
 **UNKNOWN:** The Activity Recognition Client will show this result when the device is unable to detect any activity on the mobile device.
 
-Important:
+### Important:
 To optimize resources (Battery life), the API may stop activity reporting if the device has been still for a while, and uses low power sensors to resume reporting when it detects movement. See also https://developers.google.com/location-context/activity-recognition
 
 Requires additional permissions beyond API 28
