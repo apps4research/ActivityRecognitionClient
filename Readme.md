@@ -24,4 +24,4 @@ To optimize resources (Battery life), the API may stop activity reporting if the
 Requires additional permissions beyond API 28
 
 ### Screenshot
-![Screenshot][https://i.ibb.co/cDzzZnJ/photo-2022-08-03-00-13-44.jpg]
+![Screenshot](https://i.ibb.co/cDzzZnJ/photo-2022-08-03-00-13-44.jpg)
