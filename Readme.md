@@ -22,3 +22,6 @@ The Activity Recognition API can detect the following activities:
 To optimize resources (Battery life), the API may stop activity reporting if the device has been still for a while, and uses low power sensors to resume reporting when it detects movement. See also https://developers.google.com/location-context/activity-recognition
 
 Requires additional permissions beyond API 28
+
+### Screenshot
+![Screenshot][https://i.ibb.co/cDzzZnJ/photo-2022-08-03-00-13-44.jpg]
