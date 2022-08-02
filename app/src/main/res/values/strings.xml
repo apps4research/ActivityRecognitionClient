@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity Recognition</string>
+    <string name="activity_in_vehicle">You are in a vehicle</string>
+    <string name="activity_on_bicycle">You are on a bicycle</string>
+    <string name="activity_on_foot">You are on foot</string>
+    <string name="activity_running">You are running</string>
+    <string name="activity_still">You are still</string>
+    <string name="activity_tilting">You are tilting the phone</string>
+    <string name="activity_walking">You are walking</string>
+    <string name="activity_unknown">Unknown activity</string>
+</resources>
